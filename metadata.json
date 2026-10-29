@@ -1,0 +1,6 @@
+{
+  "name": "Barbearia Matheus lucian",
+  "description": "Barbearia Matheus lucian no Sudoeste, Brasília - DF. Onde o homem se sente bem. Agende seu corte e barba pelo WhatsApp ou formulário online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
